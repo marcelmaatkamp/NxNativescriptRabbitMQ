@@ -8,7 +8,7 @@
 android {  
   defaultConfig {  
     generatedDensities = []
-    applicationId = "org.nativescript.mobileappname"  
+    applicationId = "org.nativescript.rabbitmq-ticker"  
   }  
   aaptOptions {  
     additionalParameters "--no-version-vectors"  

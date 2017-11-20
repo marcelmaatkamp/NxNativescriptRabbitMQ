@@ -33,7 +33,13 @@
     "reflect-metadata": "~0.1.8",
     "rxjs": "file:../../node_modules/rxjs",
     "tns-core-modules": "next",
-    "zone.js": "file:../../node_modules/zone.js"
+    "zone.js": "file:../../node_modules/zone.js",
+    "amqp-ts": "1.4.0",
+    "convict": "^3.0.0",
+    "flipclock": "0.7.8",
+    "standard": "^10.0.3",
+    "winston": "^2.4.0",
+    "wavy": "1.0.4"
   },
   "devDependencies": {
     "@angular/compiler-cli": "file:../../node_modules/@angular/core",
